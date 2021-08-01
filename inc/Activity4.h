@@ -5,7 +5,7 @@
  * @author 314695 V Sai Sumanth
  * @brief To transmit the temperature value by using UART Protocol.
  * @version 0.1
- * @date 2021-04-27
+ * @date 2021-07-27
  * 
  * @copyright Copyright (c) 2021
  * 
