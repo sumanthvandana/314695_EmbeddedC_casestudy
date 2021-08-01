@@ -1,6 +1,6 @@
 /**
  * @file Activity2.c
- * @author 314695 Vandana Sai Sumanth
+ * @author 314695 V Sai Sumanth
  * @brief Having Functions required for performing Analog to Digital Conversion.
  * @version 0.1
  * @date 2021-07-25
