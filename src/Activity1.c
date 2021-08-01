@@ -1,6 +1,6 @@
 /**
  * @file Activity1.c
- * @author 314695 Vandana Sai Sumanth
+ * @author 314695 V Sai Sumanth
  * @brief Having the functions required for the led ON when both Seat button and Heater button are ON.
  * @version 0.1
  * @date 2021-07-23
