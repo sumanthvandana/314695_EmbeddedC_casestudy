@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author 314695 Vandana Sai Sumanth
+ * @author 314695 V Sai Sumanth
  * @brief  Seat Heating Application.when both seat and heat button are ON then we are going to read the analog value from the sensor.Then we are Converting Analog value to Digital value.Then generating PWM wave form with their respective duty cycle.And displaying the respective temperature.
  * @version 0.1
  * @date 2021-07-24
