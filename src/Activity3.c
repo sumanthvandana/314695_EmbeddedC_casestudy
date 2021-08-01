@@ -1,6 +1,6 @@
 /**
  * @file Activity3.c
- * @author 314695 Vandana Sai Sumanth
+ * @author 314695 V Sai Sumanth
  * @brief Having the functions required for the PWM wave generation.
  * @version 0.1
  * @date 2021-07-27
