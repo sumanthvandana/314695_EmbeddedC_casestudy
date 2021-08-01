@@ -2,7 +2,7 @@
 #define ACTIVITY3_H_INCLUDED
 /**
  * @file Activity3.h
- * @author 314695 Vandana Sai Sumanth
+ * @author 314695 V Sai Sumanth
  * @brief To generate the respective Pulse width modulation wave of the converterd ADC value.
  * @version 0.1
  * @date 2021-07-27
