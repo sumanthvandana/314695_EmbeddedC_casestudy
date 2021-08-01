@@ -2,7 +2,7 @@
 #define ACTIVITY1_H_INCLUDED
 /**
  * @file Activity1.h
- * @author 314695 Vandana Sai Sumanth
+ * @author 314695 V Sai Sumanth
  * @brief  To Blink an LED when both seat button and heater button are ON.
  * @version 0.1
  * @date 2021-07-24
