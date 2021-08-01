@@ -2,7 +2,7 @@
 #define ACTIVITY2_H_INCLUDED
 /**
  * @file Activity2.h
- * @author 314695 Vandana Sai Sumanth
+ * @author 314695 V Sai Sumanth
  * @brief Analog to digital Conversion
  * @version 0.1
  * @date 2021-07-25
