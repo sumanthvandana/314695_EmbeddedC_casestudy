@@ -2,7 +2,7 @@
 #define ACTIVITY4_H_INCLUDED
 /**
  * @file Activity4.h
- * @author 314695 Vandana Sai Sumanth
+ * @author 314695 V Sai Sumanth
  * @brief To transmit the temperature value by using UART Protocol.
  * @version 0.1
  * @date 2021-04-27
